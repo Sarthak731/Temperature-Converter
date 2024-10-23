@@ -1,7 +1,7 @@
 # Temperature-Converter
 This project is a simple web-based temperature converter that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin using HTML, CSS, and JavaScript. It provides a clean, interactive interface for inputting temperatures and instantly seeing the converted results.
 
-#Key Features:
+Key Features:
 
 Temperature Input: Users can enter a temperature value in any of the three units: Celsius, Fahrenheit, or Kelvin. The converter will calculate and display the equivalent values in the other two units as soon as the user inputs the temperature.
 
