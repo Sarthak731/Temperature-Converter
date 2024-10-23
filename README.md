@@ -14,17 +14,30 @@ Error Handling: The application includes basic validation, ensuring that users e
 Technical Stack:
 
 HTML: Provides the structure of the web page, including input fields for Celsius, Fahrenheit, and Kelvin temperatures, as well as sections for displaying the results.
+
 CSS: Styles the interface, creating a visually appealing and responsive layout that works across different devices.
+
 JavaScript: Manages the core logic of the temperature conversions. When a user enters a temperature, JavaScript functions convert the value between Celsius, Fahrenheit, and Kelvin using the respective formulas:
+
 Celsius to Fahrenheit: F = C × 9/5 + 32
+
 Celsius to Kelvin: K = C + 273.15
+
 Fahrenheit to Celsius: C = (F - 32) × 5/9
+
 Fahrenheit to Kelvin: K = (F - 32) × 5/9 + 273.15
+
 Kelvin to Celsius: C = K - 273.15
+
 Kelvin to Fahrenheit: F = (K - 273.15) × 9/5 + 32
+
+
 Project Objectives:
 
 To build an interactive temperature converter that updates values in real-time.
+
 To practice JavaScript functions for calculations and DOM manipulation.
+
 To implement user-friendly input fields with proper validation and error handling.
+
 This project is an excellent way to learn about unit conversions and dynamic web applications, offering hands-on experience with basic HTML, CSS, and JavaScript functionality.
